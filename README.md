@@ -10,6 +10,12 @@ To install, change to the location you want to download the scripts. Use git to 
     git clone https://github.com/BradleyA/pi-video
     cd pi-video
 
+#### ARCHITECTURE TREE
+
+#### Traffic
+  * <img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=14&color=blue">  [Clones Table](images/clone.table.md)
+  * <img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=11&color=blue">  [Views Table](images/view.table.md)
+
 #### Author
 [<img id="twitter" src="images/twitter.png" width="50" a="twitter.com/bradleyaustintx/">
 ](https://twitter.com/bradleyaustintx/)   [<img id="github" src="images/github.png" width="50" a="https://github.com/BradleyA/">
@@ -23,11 +29,11 @@ To install, change to the location you want to download the scripts. Use git to 
  * Be usable as non-root
  * Be easy to install and configure
 
-## License
+#### License
 
 MIT License
 
-Copyright (c) 2019  [Bradley Allen](https://www.linkedin.com/in/bradleyhallen)
+Copyright (c) 2020  [Bradley Allen](https://www.linkedin.com/in/bradleyhallen)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
