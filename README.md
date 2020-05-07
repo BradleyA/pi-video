@@ -1,6 +1,6 @@
 # pi-video
 [![MIT License](http://img.shields.io/badge/License-MIT-red.png)](LICENSE)
-[<img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=4&color=blue">](images/clone.table.md)
+[<img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=21&color=blue">](images/clone.table.md)
 [<img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=17&color=blue">](images/view.table.md)
 
 #### WARNING: These instructions are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!
