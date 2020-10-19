@@ -4,8 +4,10 @@
 [![GitHub Commits Since](https://img.shields.io/github/commits-since/BradleyA/pi-video/0.0?color=orange)](https://github.com/BradleyA/pi-video/commits/)
 [![GitHub Last Commits](https://img.shields.io/github/last-commit/BradleyA/pi-video.svg)](https://github.com/BradleyA/pi-video/commits/)
 
+[![Open GitHub Issue](https://img.shields.io/badge/Open-Incident-brightgreen.svg)](https://github.com/BradleyA/pi-video/issues/new/choose)
 [![GitHub Open Issues](https://img.shields.io/github/issues/BradleyA/pi-video?color=purple)](https://github.com/BradleyA/pi-video/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/BradleyA/pi-video?color=purple)](https://github.com/BradleyA/pi-video/issues?q=is%3Aclosed+is%3Aissue)
+
 [<img alt="GitHub Clones" src="https://img.shields.io/static/v1?label=Clones&message=55&color=blueviolet">](https://github.com/BradleyA/pi-video/blob/master/images/clone.table.md)
 [<img alt="GitHub Views" src="https://img.shields.io/static/v1?label=Views&message=179&color=blueviolet">](https://github.com/BradleyA/pi-video/blob/master/images/view.table.md)
 [![GitHub Size](https://img.shields.io/github/repo-size/BradleyA/pi-video.svg)](https://github.com/BradleyA/pi-video/)
