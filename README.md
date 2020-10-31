@@ -1,4 +1,5 @@
-# pi-video
+# pi-video   [![Release Status](https://img.shields.io/badge/Status_-Alpha-red.svg)](https://github.com/BradleyA/git-TEST-commit-automation/releases/tag/3.1.1)
+
 [![GitHub Stable Release](https://img.shields.io/badge/Release-0.0-blue.svg)](https://github.com/BradleyA/pi-video/releases/tag/0.0)
 ![GitHub Release Date](https://img.shields.io/github/release-date/BradleyA/pi-video?color=blue)
 [![GitHub Commits Since](https://img.shields.io/github/commits-since/BradleyA/pi-video/0.0?color=orange)](https://github.com/BradleyA/pi-video/commits/)
