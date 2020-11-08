@@ -18,7 +18,7 @@
 ----
 
 #### WARNING: These instructions are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!
-<img id="Construction" src="../images/construction-icon.gif" width="120">
+<img id="Construction" src="images/construction-icon.gif" width="120">
 
 #### To watch future updates in this repository select in the upper-right corner, the "Watch" list, and select Watching. 
 
