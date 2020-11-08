@@ -29,19 +29,33 @@ To install, change to the location you want to download the scripts. Use git to 
 
 #### ARCHITECTURE TREE
 
-#### Author
-[<img id="github" src="images/github.png" width="50" a="https://github.com/BradleyA/">](https://github.com/BradleyA/)    [<img src="images/linkedin.png" style="max-width:100%;" >](https://www.linkedin.com/in/bradleyhallen) [<img id="twitter" src="images/twitter.png" width="50" a="twitter.com/bradleyaustintx/">](https://twitter.com/bradleyaustintx/)       <a href="https://twitter.com/intent/follow?screen_name=bradleyaustintx"> <img src="https://img.shields.io/twitter/follow/bradleyaustintx.svg?label=Follow%20@bradleyaustintx" alt="Follow @bradleyaustintx" />    </a>
+----
 
-#### System OS script tested
- * Ubuntu 16.04.3 LTS (armv7l)
+#### Contribute
+Please do contribute!  Issues and pull requests are welcome.  Thank you for your help improving software.
+
+[Return to top](https://github.com/BradleyA/pi-video/blob/master/README.md#pi-video---)
+
+#### Author
+[<img id="github" src="images/github.png" width="50" a="https://github.com/BradleyA/">](https://github.com/BradleyA/)    [<img src="images/linkedin.png" style="max-width:100%;" >](https://www.linkedin.com/in/bradleyhallen) [<img id="twitter" src="images/twitter.png" width="50" a="twitter.com/bradleyaustintx/">](https://twitter.com/bradleyaustintx/)       <a href="https://twitter.com/intent/follow?screen_name=bradleyaustintx"> <img src="https://img.shields.io/twitter/follow/bradleyaustintx.svg?label=Follow%20@bradleyaustintx" alt="Follow @bradleyaustintx" />    </a>          [![GitHub followers](https://img.shields.io/github/followers/BradleyA.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/BradleyA?tab=followers)
+
+[Return to top](https://github.com/BradleyA/pi-video/blob/master/README.md#pi-video---)
+
+#### Tested OS
+ * Ubuntu 14.04.6 LTS (amd64,armv7l)
+ * Ubuntu 16.04.7 LTS (amd64,armv7l)
+ * Ubuntu 18.04.5 LTS (amd64,armv7l)
+ * Raspbian GNU/Linux 10 (buster)
+[Return to top](https://github.com/BradleyA/pi-video/blob/master/README.md#pi-video---)
 
 #### Design Principles
  * Have a simple setup process and a minimal learning curve
  * Be usable as non-root
  * Be easy to install and configure
 
-#### License
+[Return to top](https://github.com/BradleyA/pi-video/blob/master/README.md#pi-video---)
 
+#### License
 MIT License
 
 Copyright (c) 2020  [Bradley Allen](https://www.linkedin.com/in/bradleyhallen)
